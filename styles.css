@@ -1,0 +1,25 @@
+h1 {
+  text-decoration: underline;
+}
+/* song card styles */
+,song-card
+.song-container{
+  display: flex:
+  flex-wrap:
+  justify-content: space betwen:
+ }
+.song-name {
+  display: block;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.artist-name {
+  display: block;
+  font-size: 14px ;
+  color:aliceblue;
+}
+,song-card:hover {
+  border: 2px solid 
+   ;
+}
